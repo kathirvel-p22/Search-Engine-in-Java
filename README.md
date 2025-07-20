@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Java Search Engine - Advanced Web Search Platform
 
 🔍 **A comprehensive Java-based search engine with Google-like interface and real-time web search capabilities**
@@ -161,3 +162,6 @@ This project is open source and available under the MIT License.
 ---
 
 *A comprehensive search solution combining local dataset search with real-time web search capabilities, featuring a Google-like interface and advanced search algorithms.*
+=======
+# Search-Engine-in-Java
+>>>>>>> 892534b6e8395153f3348b4d058258bb530a12a5
